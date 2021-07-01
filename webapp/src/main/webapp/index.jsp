@@ -5,7 +5,8 @@
 <style>
 body {font-family: Arial, Helvetica, sans-serif;}
 form {border: 3px solid #f1f1f1;}
-
+form {border: 3px solid #f1f1f1;}
+  
 input[type=text], input[type=password] {
   width: 100%;
   padding: 12px 20px;
